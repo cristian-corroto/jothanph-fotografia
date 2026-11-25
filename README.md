@@ -108,7 +108,7 @@ Publicada en un servidor propio y en uso con clientes reales. Está en una direc
 
 Desarrollada por **Cristian Corroto** con apoyo intensivo de IA en el código y en la puesta en marcha del servidor. Yo defino con el fotógrafo lo que necesita la web, pruebo cada funcionalidad y reviso el resultado antes de publicarlo.
 
-[Ver la web](https://srv2121091.hstgr.cloud/) · [Portfolio](https://cristian-corroto.netlify.app) · [LinkedIn](https://www.linkedin.com/in/cristian-corroto)
+[Ver la web](https://srv2121091.hstgr.cloud/) · [Portfolio](https://cristian-corroto.pages.dev) · [LinkedIn](https://www.linkedin.com/in/cristian-corroto)
 
 ---
 
